@@ -112,3 +112,8 @@ git checkout main  # 切换到指定分支
 
 ```
 
+### 拉去最新代码
+
+```bash
+git pull 
+```
