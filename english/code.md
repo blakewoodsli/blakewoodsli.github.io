@@ -1,0 +1,32 @@
+# 编程常用单词
+
+- output 输出
+- client 客户
+- server 服务端
+- default 违约；默认，系统设定值；缺席，弃权
+- URL 路径
+- Status 状态
+- router 路由器
+- handler 处理者
+- Array 数组
+- query 疑问
+- search 搜索
+-  request 请求
+-  register 注册 
+-  login 登录
+-  file 文件
+-  save 保存
+-  Method 方法
+-  Status 状态
+-  Abort 终止
+-  logger 日志
+-  ware 软件
+-  profile 个人资料
+-  creat 创建
+-  Config 配置
+-  unique 唯一的
+-  limit 限制
+-  find 查找
+-  order 排序
+-  Gender 性别
+-  marshal 序列化
