@@ -30,3 +30,5 @@
 -  order 排序
 -  Gender 性别
 -  marshal 序列化
+-  wait 等待
+-  store 储存

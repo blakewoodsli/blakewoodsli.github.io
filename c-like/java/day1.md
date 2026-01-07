@@ -308,9 +308,7 @@ set： 设置对象里的某个属性值
 
 比如类：
 
-java
-复制
-编辑
+```java
 public class User {
     private String username;
 
@@ -322,14 +320,15 @@ public class User {
         this.username = username;
     }
 }
+```
+
 你可以这样用：
 
-java
-复制
-编辑
+```java
 User u = new User();
 u.setUsername("张三");      // 设置
 System.out.println(u.getUsername()); // 获取
+```
 好处：
 
 保证类的封装性
