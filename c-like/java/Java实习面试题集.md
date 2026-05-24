@@ -68,6 +68,8 @@ a == b;       // false，不是同一个对象
 a.equals(b);  // true，内容相同
 ```
 
+![alt text](image-4.png)
+
 </details>
 
 ---
@@ -212,7 +214,9 @@ try {
 - 静态变量：所有对象共享一份
 - 静态方法：可直接 `类名.方法()` 调用，不能访问非静态成员
 
+![alt text](image-5.png)
 </details>
+
 
 ---
 
@@ -940,6 +944,7 @@ axios.post('/api/chat', { question: '你好' })
 <summary>参考答案</summary>
 
 - **Element UI**：Vue 的 UI 组件库（表格、表单、按钮）
+![alt text](image-6.png)
 - **uni-app**：基于 Vue，一套代码出小程序 + App + H5
 
 </details>
