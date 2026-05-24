@@ -10,6 +10,8 @@
       - [RedHat / CentOS 系（企业级）](#redhat--centos-系企业级)
     - [macOS（开发者神器）](#macos开发者神器)
     - [对比](#对比)
+    - [包管理工具](#包管理工具)
+      - [常用命令](#常用命令)
   - [Linux 常用命令](#linux-常用命令)
 
 ## Linux 是什么
@@ -138,6 +140,20 @@ brew install redis
 | 开发体验    | ⭐⭐⭐     | ⭐⭐     | ⭐⭐⭐⭐  |
 | 企业服务器   | 少       | **主流** | 几乎不用  |
 
+### 包管理工具
+![alt text](image.png)
+#### 常用命令
+```powershell
+winget search git
+winget install Git.Git
+winget uninstall Git.Git
+winget list
+winget upgrade --all
+
+```
+![alt text](image-1.png)
+
+
 
 ## Linux 常用命令
 
@@ -147,4 +163,15 @@ vim
 ps netstat
 systemctl
 ```
-更多查看 [liux-cmd](./linux.md)
+
+平时开发中经常使用 ls、cd、pwd 进行目录操作；
+
+使用 ps -ef 查看进程，kill -9 结束进程；
+
+使用 tail -f 实时查看日志；
+
+使用 grep 过滤日志关键字；
+
+使用 top 查看 CPU 和内存占用情况；
+
+也会使用 netstat 查看端口占用情况。

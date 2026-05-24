@@ -32,3 +32,6 @@
 -  marshal 序列化
 -  wait 等待
 -  store 储存
+-  format 格式
+-  Parse 解析
+-  Deployment 部署
